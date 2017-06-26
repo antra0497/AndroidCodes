@@ -4,7 +4,7 @@ It contain complete project with respective packages.
 
 Follow:
 In any project
-src--> package --> MainActivity.java file
+src--> package name --> MainActivity.java file
 
 res --> layout --> mainActivity.xml file
 
