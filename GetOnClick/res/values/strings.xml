@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GetOnClick</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str">Text Box</string>
+    <string name="num">Number box</string>
+    <string name="up">Upper Case</string>
+    <string name="rev">Reverse</string>
+    <string name="l">Size</string>
+    <string name="bin"> Binary</string>
+    <string name="hex">Hexadecimal </string>
+    <string name="oe">Even/ Odd</string>
+
+</resources>
