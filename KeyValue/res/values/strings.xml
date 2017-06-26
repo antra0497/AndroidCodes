@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KeyValue</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="k">Enter Key</string>
+    <string name="v">Enter Value</string>
+    <string name="s">Save</string>
+    <string name="n">Next</string>
+    <string name="l">Load</string>
+    <string name="b">Back</string>
+
+</resources>
