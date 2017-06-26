@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PersonalDialer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str">My Personal Dialler</string>
+    <string name="m">Mummy</string>
+    <string name="p">Papa</string>
+
+</resources>
