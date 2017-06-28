@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothToggle</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bt">Bluetooth</string>
+    <string name="list">Visible Devices</string>
+    <string name="paired">Paired To</string>
+    <string name="show">Show Devices </string>
+    <string name="vi">Visibility</string>
+
+</resources>
